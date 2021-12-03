@@ -1,4 +1,4 @@
-# TC Kimlik Numarasi Dogrulama
+# TC Kimlik Numarası Doğrulama
 Bu çalışma PHP, JQuery, AJAX ve SOAP aracılığıyla bireysel müşterileriniz/kullanıcılarınız tarafından girilen kişisel bilgilerin (**Ad, Soyad, Doğum Yılı ve TC Kimlik Numarası**) doğrululuğunu kontrol etmenizi sağlayacaktır.
 ### Özellikler
 - Girilen TC Kimlik Numarasının doğruluğunu kontrol eder.
