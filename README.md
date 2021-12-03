@@ -6,4 +6,4 @@ Bu çalışma PHP, JQuery, AJAX ve SOAP aracılığıyla bireysel müşterilerin
 ### Kullanım Öncesi Ayarlar
 Sunucunuzda veya Hostinginizde **SOAP eklentisinin bulunması ve aktif olması gerekmektedir**. Bu eklentinin bulunmaması veya aktif olmaması durumunda hata almanız muhtemeldir..
 ### Destek ve Sorular 
-Bir sorun yaşamanız durumunda şahsıma ait [e-Posta adresinden](ates.serhat@bilgetopluluk.com) ulaşabilirsiniz. 
+Bir sorun yaşamanız durumunda şahsıma ait [e-Posta adresinden](mailto:ates.serhat@bilgetopluluk.com) ulaşabilirsiniz. 
